@@ -209,7 +209,6 @@ checkbox, radio{
     font-size: 26rpx;
     color: #BBBBBB;
 }
-
 .section{
     margin-bottom: 80rpx;
 }
